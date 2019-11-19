@@ -15,7 +15,7 @@ Correo electrónico: <input type="email" name="email_control" required />
 </p>
 
 <p>
-URL: <input type="url" name="url_control" placeholder="https://getsemani-gonzalez24.github.io/crystal-spot/"/>
+URL: <input type="url" name="url_control" placeholder="https:/https://getsemani-gonzalez24.github.io/crystal-spot"//>
 </p>
 
 <p>
@@ -53,10 +53,3 @@ Término de búsqueda: <input type="search" name="search_control" />
 <p>
 Color favorito: <input type="color" name="color_control" />
 </p>
-
-<p>
-<input type="submit" value="Enviar" />
-</p>
-</form>
-</body>
-</html>
