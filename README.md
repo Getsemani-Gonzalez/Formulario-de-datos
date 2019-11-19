@@ -15,7 +15,7 @@ Correo electrónico: <input type="email" name="email_control" required />
 </p>
 
 <p>
-URL: <input type="url" name="url_control" placeholder="Escribe la URL de tu página web personal" />
+URL: <input type="url" name="url_control" placeholder="https://getsemani-gonzalez24.github.io/crystal-spot/"/>
 </p>
 
 <p>
