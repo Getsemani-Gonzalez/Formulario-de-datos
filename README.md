@@ -15,9 +15,9 @@ Correo electrónico: <input type="email" name="email_control" required />
   </p>
 
 <p>
-URL: <input type="url" name="url_control" placeholder="https://getsemani-gonzalez.github.io/About-Getsy" />
-</p>
-
+URL: <input type="url" name="url_control" placeholder="https://getsemani-gonzalez.github.io/About-Getsy/" />
+  </p>
+  
 <p>
 Fecha: <input type="date" name="date_control" />
 </p>
