@@ -15,14 +15,11 @@ Correo electrónico: <input type="email" name="email_control" required />
   </p>
 
 <p>
-
-<URL: <input type="url" name="url_control" placeholder="https://getsemani-gonzalez.github.io/About-Getsy/" />
+URL: <input type="url" name="url_control" placeholder="https://getsemani-gonzalez.github.io/About-Getsy" />
 </p>
 
 <p>
-
 Fecha: <input type="date" name="date_control" />
-
 </p>
 
 <p>
@@ -63,3 +60,5 @@ Color favorito: <input type="color" name="color_control" />
 </form>
 </body>
 </html> 
+<p>
+<h1>URL DEL CREADOR: https://getsemani-gonzalez.github.io/About-Getsy/
