@@ -12,11 +12,11 @@ Nombre:<input type="text" name="name_control" autofocus required />
 
 <p>
 Correo electrónico: <input type="email" name="email_control" required />
-  </p>
-
+</p>
+  
 <p>
 URL: <input type="url" name="url_control" placeholder="https://getsemani-gonzalez.github.io/About-Getsy/" />
-  </p>
+</p>
   
 <p>
 Fecha: <input type="date" name="date_control" />
